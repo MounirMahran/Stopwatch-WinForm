@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\DELL\Desktop\My-GitHub\Stopwatch-WinForm\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
